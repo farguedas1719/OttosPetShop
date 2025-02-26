@@ -1,0 +1,90 @@
+.box1{
+    background-color: white;
+}
+.imagen1{
+    width: 10%;
+    padding-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+  }
+.box2{
+    padding-left: 10px;
+    font-size: 30px;
+    border-top: 3px solid black;
+}
+.box3{
+    color: red;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.box4{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagenS{
+    width: 20%;
+    padding-left: 10px;
+    padding-top: 50px;     
+}
+.imagenD{
+    width: 13%;
+    padding-left: 10px;
+    padding-top: 50px;     
+}
+.imagen3{
+    width: 2%;
+}
+.box6{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px; 
+}
+.box7{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.box8{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.imagen4{
+    width: 1.5%;
+}
+.box9{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px; 
+}
+.box10{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;  
+}
+.box11{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px; 
+}
+.imagenfinal{
+    width: 11%;
+}
+.box12{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

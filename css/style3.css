@@ -1,0 +1,99 @@
+.box1{
+    background-color: white;
+}
+.imagen1{
+    width: 10%;
+    padding-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+  }
+.box2{
+    padding-left: 10px;
+    font-size: 30px;
+    border-top: 3px solid black;
+    
+}
+.imagenperro{
+    width: 80%;
+}
+.box3{
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.box4{
+    font-size: 29px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    padding-right: 30px;
+    margin-right: 30px;
+    padding-bottom: 70px;
+}
+.box5{
+    font-size: 40px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    padding-right: 10px;
+    margin-right: 10px;
+    color: red;
+    padding-top: 70px;
+}
+.imagen3{
+    width: 2%;
+}
+.box6{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px; 
+}
+.imagen4{
+    width: 2%;
+}
+.box7{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.box8{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.box9{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px; 
+}
+.box10{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;  
+}
+.box11{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px; 
+}
+.imagenfinal{
+    width: 11%;
+}
+.box12{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
